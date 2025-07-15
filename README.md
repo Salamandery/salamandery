@@ -66,7 +66,7 @@ I'm a passionate software developer with extensive experience across multiple te
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamandery&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
@@ -86,7 +86,7 @@ I'm a passionate software developer with extensive experience across multiple te
 ---
 
 <!-- Snake animation -->
-<p align="center">
+<p>
   <img src="https://github.com/salamandery/salamandery/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
