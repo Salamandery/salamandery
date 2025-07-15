@@ -35,6 +35,11 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, desenvolvimento de softw
 
 ---
 
+## 🏆 Troféus
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📫 Contato
 
 - Email: rodolfo_mferreira@hotmail.com
